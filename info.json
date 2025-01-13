@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "80d574e62ca1d0f9f167815666eac6c9febc28ef",
+    "author": "RonaldVisser <38214052+RonaldVisser@users.noreply.github.com>",
+    "time": "2025-01-13 08:25:10",
+    "files": 2,
+    "merge": false,
+    "message": "stop gh-action\n"
+  },
+  "repo": "https://github.com/ropensci/dendroNetwork",
+  "pkg": "dendroNetwork"
+}
