@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "51ac08aa8194703a42bdcde875b0950ae49a892a",
+    "author": "RonaldVisser <38214052+RonaldVisser@users.noreply.github.com>",
+    "time": "2025-08-03T06:21:22Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "repo": "https://github.com/ropensci/dendroNetwork",
+  "pkg": "dendroNetwork",
+  "time": "2026-08-30T07:44:09Z"
+}

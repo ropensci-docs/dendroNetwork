@@ -1,0 +1,12 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  cytoscape: cytoscape.html
+  dendrochronological_data: dendrochronological_data.html
+  dendroNetwork: dendroNetwork.html
+  large_datasets_communities: large_datasets_communities.html
+last_built: 2026-08-30T07:43Z
+urls:
+  reference: https://docs.ropensci.org/dendroNetwork/reference
+  article: https://docs.ropensci.org/dendroNetwork/articles
